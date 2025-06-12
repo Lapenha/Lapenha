@@ -20,7 +20,7 @@
 ---
 
 ## 📜 Certificações
-
+- Oracle Java Learning Explorer 
 - Oracle Certified Foundation Associate - Oracle Cloud Infrastructure 2025
 - Git e GitHub (Udemy)
 - Agile Master (Scrum, Kanban, Gestão de Mudanças)
@@ -28,7 +28,6 @@
 - C1 Advanced English Level
 - Excel Avançado (Bradesco)
 - IA Generativa (Santander)
-- AutoCAD e Desenho Técnico (USJT)
 - Cultura Digital e IA (Bradesco)
 - Kanban e Gestão de Projetos (FGV)
 
