@@ -19,7 +19,7 @@
 
 ---
 
-## 📜 Certificações
+## 📜 Cursos complementares e certificaçÕes
 - Oracle Java Learning Explorer 
 - Oracle Certified Foundation Associate - Oracle Cloud Infrastructure 2025
 - Git e GitHub (Udemy)
