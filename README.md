@@ -15,14 +15,6 @@ Tenho experiência em **desenvolvimento full stack, cloud e inteligência artifi
 
 ---
 
-## 📊 Estatísticas do GitHub  
-
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alapenhamurilo&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alapenhamurilo&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=alapenhamurilo&theme=tokyonight&hide_border=true)  
-
----
-
 ## 📜 Certificações e Cursos  
 
 - Oracle Certified Foundation Associate – Oracle Cloud Infrastructure (2025)  
