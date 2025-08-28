@@ -42,7 +42,7 @@ Tenho experiência em **desenvolvimento full stack, cloud e inteligência artifi
 
 ## 📬 Contato  
 
-- [LinkedIn](https://www.linkedin.com)  
+- [LinkedIn](https://www.linkedin.com/in/muriloalapenha/)  
 - 📧 alapenhamurilo@gmail.com  
 
 ---
