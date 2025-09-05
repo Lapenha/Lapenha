@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Murilo Alapenha  
+#  Olá, eu sou o Murilo Alapenha  
 
 **Founder & CEO da Alapenha Soluções em Tecnologia**  
 Estudante de **Engenharia de Software** e **Administração**, apaixonado por tecnologia, dados e automação de processos.  
