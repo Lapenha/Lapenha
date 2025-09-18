@@ -6,7 +6,6 @@ Tenho experiência em **desenvolvimento full stack, cloud e inteligência artifi
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
 
 ## 🛠️ Tecnologias e Ferramentas  
 
