@@ -91,7 +91,7 @@ Tenho interesse especial por arquitetura de software, aplicações escaláveis, 
 
 ---
 
-## 📌 Principais interesses
+## Principais interesses
 
 Full-stack Development · TypeScript · JavaScript · Node.js · Java · Spring Boot
 React · Angular · Android · REST APIs · SOAP APIs · JWT · PostgreSQL · Oracle
